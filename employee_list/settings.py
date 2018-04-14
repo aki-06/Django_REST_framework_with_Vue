@@ -109,7 +109,7 @@ REST_FRAMEWORK = {
 }
 # views.pyで使うパスを定義
 PACKAGE_ROOT = os.path.abspath(os.path.dirname(__file__))
-STATICFILES_DIRS = (os.path.join(PACKAGE_ROOT, 'employee'),)
+STATICFILES_DIRS = (os.path.join(PACKAGE_ROOT, 'static'),)
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.10/topics/i18n/

@@ -1,0 +1,65 @@
+[
+  {
+    "model": "employees.employee",
+    "pk": 1,
+    "fields": {
+      "name": "丑嶋 馨",
+      "age": 23,
+      "department": "社長"
+    }
+  },
+  {
+    "model": "employees.employee",
+    "pk": 2,
+    "fields": {
+      "name": "範馬 勇次郎",
+      "age": 40,
+      "department": "副社長"
+    }
+  },
+  {
+    "model": "employees.employee",
+    "pk": 3,
+    "fields": {
+      "name": "範馬 刃牙",
+      "age": 20,
+      "department": "営業"
+    }
+  },
+  {
+    "model": "employees.employee",
+    "pk": 4,
+    "fields": {
+      "name": "桜木 花道",
+      "age": 18,
+      "department": "経理"
+    }
+  },
+  {
+    "model": "employees.employee",
+    "pk": 5,
+    "fields": {
+      "name": "千堂 武",
+      "age": 22,
+      "department": "人事"
+    }
+  },
+  {
+    "model": "employees.employee",
+    "pk": 6,
+    "fields": {
+      "name": "ビスケット オリバ",
+      "age": 39,
+      "department": "総務"
+    }
+  },
+  {
+    "model": "employees.employee",
+    "pk": 7,
+    "fields": {
+      "name": "水戸 洋平",
+      "age": 18,
+      "department": "エンジニア"
+    }
+  },
+]

@@ -1,6 +1,6 @@
 [
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 1,
     "fields": {
       "name": "丑嶋 馨",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 2,
     "fields": {
       "name": "範馬 勇次郎",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 3,
     "fields": {
       "name": "範馬 刃牙",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 4,
     "fields": {
       "name": "桜木 花道",
@@ -36,7 +36,7 @@
     }
   },
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 5,
     "fields": {
       "name": "千堂 武",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 6,
     "fields": {
       "name": "ビスケット オリバ",
@@ -54,12 +54,12 @@
     }
   },
   {
-    "model": "employees.employee",
+    "model": "employee.employee",
     "pk": 7,
     "fields": {
       "name": "水戸 洋平",
       "age": 18,
       "department": "エンジニア"
     }
-  },
+  }
 ]
